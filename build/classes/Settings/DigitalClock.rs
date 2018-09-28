@@ -1,0 +1,2 @@
+Settings.ClockLabel
+Settings.DigitalClock
